@@ -35,8 +35,8 @@ Independientemente del resultado de la partida, el usuario puede volver a jugar.
 
 Presentación de proyecto.
 
-https://www.canva.com/design/DAGUpjYV17g/Tj9jiwv5_ZdHwBzJ1N3mEQ/edit
 
+https://www.canva.com/design/DAGUpjYV17g/01xb6eH4oxXxIGwFyaaHag/view?utm_content=DAGUpjYV17g&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Equipo
 
