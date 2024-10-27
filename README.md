@@ -1,7 +1,7 @@
 <h1 align="center"> PROYECTO AHORCADO </h1>
 
 
-[AHORCADP](https://github.com/Adalab/proyecto_ahorcado/blob/main/juego_ahorcado.png)
+[AHORCADO] https://github.com/Adalab/proyecto_ahorcado/blob/main/juego_ahorcado.png
 
 
 1.   Descripción
@@ -37,11 +37,11 @@ Si el usuario consigue resolverlo antes de agotar los intentos, habrá ganado el
 Independientemente del resultado de la partida, el usuario puede volver a jugar.   
 
 
-5.   Presentación de proyecto.
+5.    Presentación de proyecto.
 
-                ttps://www.canva.com/design/DAGUpjYV17g/Tj9jiwv5_ZdHwBzJ1N3mEQ/edit
+        ttps://www.canva.com/design/DAGUpjYV17g/Tj9jiwv5_ZdHwBzJ1N3mEQ/edit
 
-6.      Miembros del Equipo
+6.    Miembros del Equipo
 
 Julia Marín Salas (Scrum Master)
 Alba Ventas Gallego (Scrum Team)
