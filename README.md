@@ -23,18 +23,19 @@ Jupyter Notebook
                 https://github.com/Adalab/proyecto_ahorcado.git
 
     3.2 Abre en VScode un jupyter notebook.
+    
     3.3 Ejecuta el juego.
 
 4.   Desarrollo
 
-El usuario inicia el juego. 
-La maquina seleccina aleatoriamente una palabra de una lista predefinida empleando funcion import random.
-Se solicita a usuario que introduczca una letra.
-    Si la letra coincide con una la de las lestras de la palabra oculta, se mostrará su posición dentro de dicha palabra
-    Si  la letra no está, se contabilizará como un intento fallido y se mostrará una representación gráfica de una parte del cuerpo del ahorcado. 
-Cada fallo incrementa el número de intentos fallidos (Predeterminado en un máximo de 6). Si el usuario alcanza el límite, termina la partida y habrá perdido. 
-Si el usuario consigue resolverlo antes de agotar los intentos, habrá ganado el juego.
-Independientemente del resultado de la partida, el usuario puede volver a jugar.   
+    - El usuario inicia el juego. 
+    - La maquina seleccina aleatoriamente una palabra de una lista predefinida empleando funcion import random.
+    - Se solicita a usuario que introduczca una letra.
+        -Si la letra coincide con una la de las lestras de la palabra oculta, se mostrará su posición dentro de dicha palabra
+        -Si  la letra no está, se contabilizará como un intento fallido y se mostrará una representación gráfica de una parte del cuerpo del ahorcado. 
+    -Cada fallo incrementa el número de intentos fallidos (Predeterminado en un máximo de 6). Si el usuario alcanza el límite, termina la partida y habrá perdido. 
+    -Si el usuario consigue resolverlo antes de agotar los intentos, habrá ganado el juego.
+    -Independientemente del resultado de la partida, el usuario puede volver a jugar multiples partidas..   
 
 
 5.    Presentación de proyecto.
