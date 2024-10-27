@@ -10,11 +10,12 @@
 
 Con este proyecto simulamos ser una empresa de programación "Somos Lógica", a la cual un colegio ha contactado para que desarrollemos un juego clásico de adivinanzas, la versión digital del ahorcado  con el  fin de acercar el mundo de la programación a los niños de primaria para que aprendan nuevo vocabulario, de manera divertida,  y les permita manejar y prácticar el uso del alfabeto. El proyecto se ha inspirado en la temática de Halloween.
 
- 
+
 2.   Herramientas
 - Python
 - Visual Studio Code
 - Jupyter Notebook
+
 
 3.   Ejecución Juego
 
@@ -25,6 +26,7 @@ Con este proyecto simulamos ser una empresa de programación "Somos Lógica", a 
     3.2 Abre en VScode un jupyter notebook.
     
     3.3 Ejecuta el juego.
+
 
 4.   Desarrollo
 
@@ -42,6 +44,7 @@ Con este proyecto simulamos ser una empresa de programación "Somos Lógica", a 
 
         https://www.canva.com/design/DAGUpjYV17g/01xb6eH4oxXxIGwFyaaHag/view?utm_content=DA[…]17g&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
+
 6.    Miembros del Equipo
 
 - Julia Marín Salas (Scrum Master)
@@ -53,4 +56,4 @@ Con este proyecto simulamos ser una empresa de programación "Somos Lógica", a 
 
 Prepárate, elige tus letras sabiamente y ¡demuestra tu habilidad! ¿Podrás salvar al muñeco o caerás en la trampa del ahorcado?
 
-¡Comencemos! :cerebro::lápiz2:
+¡Comencemos! 
